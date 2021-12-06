@@ -1,9 +1,9 @@
 ---
 layout: page
 title: cv
-permalink: /assets/resumes/2021-CV-twopage.pdf
+permalink: /assets/resumes/Rohan_CV.pdf
 order: 3
 ---
  
-[[CV]({{ site.url }}/assets/resumes/2021-CV-twopage.pdf)] 
+[[CV]({{ site.url }}/assets/resumes/Rohan_CV.pdf)] 
 	 
