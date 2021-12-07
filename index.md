@@ -5,12 +5,10 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 7px;" src=" {{ site.url }}/assets/images/me.jpeg">
 
-Hi! I am Rohan, and I'm a fourth-year undergraduate at the Computer Science and Engineering department of [IIT Bombay](https://www.cse.iitb.ac.in/).
+I am a final a year undergraduate at the Computer Science and Engineering department of [IIT Bombay](https://www.cse.iitb.ac.in/).
 I am currently primarily interested in machine learning but I find many facets of computer science fascinating.
 
-I'm currently doing my Bachelors' Thesis Project (BTP) with Prof. [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) in machine learning for low resource languages. 
-In the summer of 2021, I was a data science intern at Microsoft India, where I worked on vision-language models for Bing Ads classification with [Swati Tiwari](https://www.linkedin.com/in/swati-tiwari-1805/) under [Neelesh Khanna](https://www.linkedin.com/in/nekhanna/).
-The summer before, I was exploring Vector Addition Systems as a research intern at ETH Zurich, guided by Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/) and Prof. [Pinjia He](https://pinjiahe.github.io/). 
+I'm currently doing my Bachelors' Thesis Project (BTP) with Prof. [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) in machine learning techniques for low resource languages. I have worked with Prof. [Shivaram Kalyanarkishnan](https://www.cse.iitb.ac.in/~shivaram) on election forecasting, and in proving PAC guarantees for mode estimation and multi-armed bandits. The summer before, I was working on the evaluation and testing of Google and Bing's QnA systems, guided by Prof. [Pinjia He](https://pinjiahe.github.io/) and Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). 
 
 <!-- You can find some of my writings [here](https://akkapakasaikiran.github.io/archive.html).
 I hope the existence of this site will spur me on to pen down my thoughts more.  -->
