@@ -44,6 +44,8 @@ I am pursuing a Bachelor's Degree (with Honors) in Computer Science and Engineer
 </details>
 <details><summary>Semester 2</summary>
 
+## A Table
+
 | Course Code | Title |
 | --- | --- |
 | git status | List all new or modified files |
