@@ -50,14 +50,12 @@ order: 2
 </p>
 </details>
 <details><summary>Semester 2</summary>
-<p>
 
-| Command | Description |
+| Course Code | Title |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
-</p>
 </details>
 <details><summary>Semester 1</summary>
 <p>
