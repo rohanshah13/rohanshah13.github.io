@@ -1,6 +1,6 @@
 ---
 layout: page
-title: miscellaneous
+title: Coursework
 permalink: /misc/
 order: 4
 ---
