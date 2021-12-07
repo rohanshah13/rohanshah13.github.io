@@ -5,8 +5,6 @@ permalink: /research/
 order: 2
 ---
 
-### Research Projects
-
 [PAC Mode Estimation using PPR Martingale Confidence Sequences](https://arxiv.org/abs/2109.05047)
 
 Shubham Jain, Rohan Shah*, Jian Vora*, Denil Mehta*, Inderjeet Nair*, Sanit Gupta*, Sushil Khyalia, Sourav Das, Vinay Ribeiro, Shivaram Kalyanakrishnan
