@@ -52,7 +52,10 @@ order: 2
 <details><summary>Semester 2</summary>
 <p>
 
-#### Hello
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 </p>
 </details>
