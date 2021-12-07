@@ -31,7 +31,9 @@ I am pursuing a Bachelor's Degree (with Honors) in Computer Science and Engineer
 <details><summary>Semester 4</summary>
 <p>
 
+---
 #### Hello
+---
 
 </p>
 </details>
