@@ -48,10 +48,25 @@ I am pursuing a Bachelor's Degree (with Honors) in Computer Science and Engineer
 
 ## A Table
 
-| Course Code | Title |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+<table>
+  <tr>
+    <th>var</th>
+    <th>let</th>
+    <th>const</th>
+  </tr>
+  <tr>
+    <td>
+      Declares a variable, optionally initializing it to a value.
+    </td>
+    <td>
+      Declares a block-scoped, local variable, optionally initializing it to a value.
+    </td>
+    <td>
+      Declares a block-scoped, read-only named constant.
+    </td>
+  </tr>
+  ...
+</table>
 
 </details>
 <details><summary>Semester 1</summary>
