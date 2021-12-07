@@ -9,5 +9,5 @@ order: 2
 
 Shubham Jain, Rohan Shah\*, Jian Vora\*, Denil Mehta\*, Inderjeet Nair\*, Sanit Gupta\*, Sushil Khyalia, Sourav Das, Vinay Ribeiro, Shivaram Kalyanakrishnan (\* indicates equal contribution)
 
-*Under review at AISTATS 2022*
+*Under peer review*
 
