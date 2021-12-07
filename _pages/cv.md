@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cv
+title: CV
 permalink: /assets/resumes/Rohan_CV.pdf
 order: 3
 ---
